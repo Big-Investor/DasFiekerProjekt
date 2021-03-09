@@ -9,3 +9,4 @@ public void DieFieker()
     anzahlFieker++;
   }
 }
+Leon ist gay
